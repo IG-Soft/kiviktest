@@ -31,7 +31,7 @@
 
 [[constraint]]
   branch = "master"
-  name = "github.com/go-kivik/kivik"
+  name = "github.com/IG-Soft/kivik"
 
 [[constraint]]
   name = "github.com/pkg/errors"
