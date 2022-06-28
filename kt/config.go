@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	kivik "github.com/go-kivik/kivik/v3"
+	kivik "github.com/IG-Soft/kivik/v3"
 )
 
 // AllDocsIndex is the default index for _all_docs

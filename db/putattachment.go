@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"strings"
 
-	kivik "github.com/go-kivik/kivik/v3"
-	"github.com/go-kivik/kiviktest/v3/kt"
+	kivik "github.com/IG-Soft/kivik/v3"
+	"github.com/IG-Soft/kiviktest/v3/kt"
 )
 
 func init() {

@@ -13,7 +13,7 @@ import (
 	"testing"
 	"time"
 
-	kivik "github.com/go-kivik/kivik/v3"
+	kivik "github.com/IG-Soft/kivik/v3"
 )
 
 // Context is a collection of client connections with different security access.

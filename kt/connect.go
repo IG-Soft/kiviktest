@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	kivik "github.com/go-kivik/kivik/v3"
+	kivik "github.com/IG-Soft/kivik/v3"
 )
 
 // DSN returns a testing DSN from the environment.
